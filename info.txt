@@ -1,0 +1,2 @@
+Ejecutar make para generar estructura de directorios y 
+el archivo ejecutable.
